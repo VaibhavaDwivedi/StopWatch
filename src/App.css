@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.timer {
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+.start-button {
+  background-color: green;
+}
+
+.clear-button {
+  background-color: gray;
+}
+
+.stop-button {
+  background-color: red;
+}
